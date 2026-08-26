@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
+| [3467-transform-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
+| [3467-transform-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
