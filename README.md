@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3467-transform-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## String Matching
 |  |
 | ------- |
