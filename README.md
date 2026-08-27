@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
