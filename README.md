@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0182-duplicate-emails) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
