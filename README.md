@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [3467-transform-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Divide and Conquer
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
