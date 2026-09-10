@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -127,4 +128,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
