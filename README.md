@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
