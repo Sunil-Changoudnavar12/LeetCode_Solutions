@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
