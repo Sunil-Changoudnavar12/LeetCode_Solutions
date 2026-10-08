@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [3467-transform-array-by-parity](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Divide and Conquer
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
