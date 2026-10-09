@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sunil-Changoudnavar12/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
